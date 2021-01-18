@@ -1,5 +1,5 @@
 # I am Doruk Dorkodu
-<img src="/home/dorkodu/Desktop/mona-whisper.gif" alt="mona-whisper"  />
+<img src="undraw_relaunch_day_902d.svg" alt="mona-whisper" style="max-width:40%; float:left;"/>
 
 ## About
 
