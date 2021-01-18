@@ -1,6 +1,9 @@
 # I am Doruk Dorkodu
+
 <br>
-<img src="undraw_relaunch_day_902d.svg" alt="mona-whisper" style="max-width: 40%; float: left;"/>
+
+<img src="undraw_relaunch_day_902d.svg" alt="mona-whisper" style="max-width: 40%; float: left;" />
+
 ## About
 
 - **Vefa'151**
