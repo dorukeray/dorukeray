@@ -1,5 +1,5 @@
 # I am Doruk Dorkodu
-<img src="undraw_relaunch_day_902d.svg" alt="mona-whisper" style="max-width:40%; float:left;"/>
+<img src="undraw_relaunch_day_902d.svg" alt="mona-whisper" style="margin:2rem; max-width:40%; float:left;"/>
 
 ## About
 
@@ -57,7 +57,7 @@ I want to change the world and human race's destiny. Literally. <br>I want to gi
 - **The Leader** : **Mustafa Kemal Atatürk** and Turkish Independence Movement
 - **Entrepreneurs :** **Steve Jobs, Elon Musk, Richard Branson, Chris Gardner**
 - **Activists :** Martin Luther King, Muhammed Ali, Linus Torvalds, Richard Stallman
-- **Cult Movies :** Forrest Gump, Pursuit of Happiness, Shawsank Redemption, The Godfather, The Matrix, The Green Mile
+- **Cult Movies :** Forrest Gump, Pursuit of Happiness, Shawsank Redemption, The Godfather, The Matrix, The Green Mile, October Sky
 
 #### Music
 
