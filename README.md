@@ -1,12 +1,6 @@
 # I am Doruk Dorkodu
 
-<<<<<<< HEAD
-<img src="undraw_relaunch_day_902d.svg" alt="mona-whisper" style="margin:2rem; max-width:40%; float:left;"/>
-=======
-<br>
-
 <img src="undraw_relaunch_day_902d.svg" alt="Undraw Relaunch" style="max-width: 40%; float: left;" />
->>>>>>> ed3a022afd482d7ac950a4f62c2ff23709791832
 
 ## About
 
