@@ -14,28 +14,7 @@
 
 **Web :** [Dorkodu - dorkodu.com](https://dorkodu.com)<br>**Email :** [doruk@dorkodu.com](mailto:doruk@dorkodu.com)<br>**Twitter :** [@dorkodu](https://twitter.com/dorkodu)
 
-## Life Purpose
 
-I want to change the world and human race's destiny. Literally. <br>I want to give people something they can live up to, a better life opportunity for everyone. <br>I want to do this by creating new products for humanity, inventing something new, real, useful, meaningful. <br>I will NOT do that for the sake of capitalism. <br>But to push the limits of human civilization forward and give everyone a better and life
-
-## Life Goals - simplified
-
-### Universal Knowledge Resource
-
-- Create a "social knowledge network" to understand how people express, create, exchange and perceive knowledge. It will be like a virtual - artificial experimentation medium.
-- Create a universal "standard" or "protocol" on what knowledge is, and how we exchange/acquire it. 
-- Create "Universal Knowledge Resource" using that protocol
-- Create a "Knowledge Search Engine" to give people a way to get pure information from that resource
-- Create a "P2P Knowledge Exchange Protocol"
-- Create Internet of Brains, in which people or machines can connect and exchange information using that protocol
-
-#### Clean and Drinkable Water Purification and Production Way
-
-#### Better, Renewable, Green, Free Energy Resource
-
-#### An Automated and Cheaper Way to Natural, More Productive, Efficient Agriculture
-
-#### A Way to Cheaper Space Mining and Exploration
 
 ## What I have been doing in Software Engineering?
 
@@ -50,14 +29,30 @@ I want to change the world and human race's destiny. Literally. <br>I want to gi
 - **Hindsight** : a utility that makes it simple to develop, maintain and deploy a Markdown based site.
 
 ## What languages do I write?
-
 - **C**, **PHP**, **JavaScript**, **HTML** + **CSS**
+
+## Life Purpose
+I want to change the world and human race's destiny. Literally. <br>I want to give people something they can live up to, a better life opportunity for everyone. <br>I want to do this by creating new products for humanity, inventing something new, real, useful, meaningful. <br>I will NOT do that for the sake of capitalism. <br>But to push the limits of human civilization forward and give everyone a better and life
+
+## Life Goals - simplified
+### Universal Knowledge Resource
+
+- Create a "social knowledge network" to understand how people express, create, exchange and perceive knowledge. It will be like a virtual - artificial experimentation medium.
+- Create a universal "standard" or "protocol" on what knowledge is, and how we exchange/acquire it. 
+- Create "Universal Knowledge Resource" using that protocol
+- Create a "Knowledge Search Engine" to give people a way to get pure information from that resource
+- Create a "P2P Knowledge Exchange Protocol"
+- Create Internet of Brains, in which people or machines can connect and exchange information using that protocol
+
+#### Clean and Drinkable Water Purification and Production Way
+#### Better, Renewable, Green, Free Energy Resource
+#### An Automated and Cheaper Way to Natural, More Productive, Efficient Agriculture
+#### A Way to Cheaper Space Mining and Exploration
 
 ## Inspired From
 
-- **The Leader** : **Mustafa Kemal Atatürk** and Turkish Independence Movement
-- **Entrepreneurs :** **Steve Jobs, Elon Musk, Richard Branson, Chris Gardner**
-- **Activists :** Martin Luther King, Muhammed Ali, Linus Torvalds, Richard Stallman
+- **The Leader :** **Mustafa Kemal Atatürk** and Turkish Independence Movement
+- **People :** Steve Jobs, Elon Musk, Richard Branson, Chris Gardner, Martin Luther King, Muhammed Ali, Linus Torvalds, Keanu Reeves, Tom Hanks, Richard Stallman
 - **Cult Movies :** Forrest Gump, Pursuit of Happiness, Shawsank Redemption, The Godfather, The Matrix, The Green Mile, October Sky
 
 #### Music
@@ -74,7 +69,8 @@ I want to change the world and human race's destiny. Literally. <br>I want to gi
 - You Don't Have To Born Brilliant
 - The Little Prince
 - Kürk Mantolu Madonna
-- Nutuk
+- Getting Real
+- How to Steal Like an Artist
 
 ## What languages do I speak?
 
