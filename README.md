@@ -6,7 +6,7 @@
 
 - **Vefa'151**
 
-- **Founder and Chief of Dorkodu - @dorkodu**
+- **Founder and Chief of Dorkodu - [@dorkodu](https://github.com/dorkodu)**
 
 - **Self-taught Software Engineer**
 
