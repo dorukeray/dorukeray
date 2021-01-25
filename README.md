@@ -1,6 +1,6 @@
 # I am Doruk Dorkodu
 
-![](/home/dorkodu/code/dorukdorkodu/forrest-will-say-something.gif)
+![Forrest will say something :D](/home/dorkodu/code/dorukdorkodu/forrest-will-say-something.gif)
 
 ## About
 
