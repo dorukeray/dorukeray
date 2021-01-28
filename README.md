@@ -10,7 +10,7 @@
 
 - **Self-taught Software Engineer**
 
-- **Freewheeler, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast**
+- **Freewheelr, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast**
 
 **Web :** [Dorkodu - dorkodu.com](https://dorkodu.com)<br>**Email :** [doruk@dorkodu.com](mailto:doruk@dorkodu.com)<br>**Twitter :** [@dorkodu](https://twitter.com/dorkodu)
 
