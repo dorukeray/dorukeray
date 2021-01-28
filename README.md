@@ -24,7 +24,7 @@
 - **Luckt** : a global state management library & pattern for Lucid apps
 - **Lumberjack** : a JavaScript library for efficient data retrieval using QuoteRL
 - **Loom** : a minimalistic dependency utility for PHP
-- **Hindsight** : a utility that makes it simple to develop, maintain and deploy a Markdown based site.
+- **Hindsight** : a utility that makes it simple to develop and maintain a Markdown based static website.
 
 ## What languages do I write?
 
