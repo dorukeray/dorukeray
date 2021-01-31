@@ -23,10 +23,10 @@
 - **Lucid** : a simple and lightweight JavaScript library for developing component-based UI web apps
 - **Luckt** : a global state management library & pattern for Lucid apps
 - **Lumberjack** : a JavaScript library for efficient data retrieval using QuoteRL
-- **Loom** : a minimalistic dependency utility for PHP
 - **Hindsight** : a utility that makes it simple to develop and maintain a Markdown based static website.
 - **Shepherd** : an in-memory key-value cache using shared memory in PHP
 - **Whispr** : a graph storage system based on MySQL and Shepherd.
+- **Loom** : a minimalistic dependency utility for PHP
 
 ## What languages do I write?
 
