@@ -25,6 +25,7 @@
 - **Lumberjack** : a JavaScript library for efficient data retrieval using QuoteRL
 - **Loom** : a minimalistic dependency utility for PHP
 - **Hindsight** : a utility that makes it simple to develop and maintain a Markdown based static website.
+- **Whispr** : a graph storage system based on MySQL and Shepherd.
 
 ## What languages do I write?
 
