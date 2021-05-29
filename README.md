@@ -1,10 +1,10 @@
-# I am Doruk Dorkodu
+# I am Doruk Eray
 
 ![Forrest will say something :D](forrest-will-say-something.gif)
 
 ## About
 
-- **Vefa'151**
+- **I study at Vefa Lisesi, a historical high school in Istanbul.**
 
 - **Founder and Chief @ [Dorkodu](https://github.com/dorkodu)**
 
@@ -12,8 +12,8 @@
 
 - **Freewheeler, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast**
 
-**Web :** [Dorkodu - dorkodu.com](https://dorkodu.com)<br>**Email :** [doruk@dorkodu.com](mailto:doruk@dorkodu.com)<br>**Twitter :** [@dorkodu](https://twitter.com/dorkodu)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dorukeray&count_private=true&theme=vue&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukeray&langs_count=4&theme=vue)]()
 
-## What languages do I write?
 
-- **C**, **PHP**, **JavaScript**, **HTML** + **CSS**
+**Web :** [doruk.dorkodu.com](https://doruk.dorkodu.com)<br>**Email :** [doruk@dorkodu.com](mailto:doruk@dorkodu.com)<br>**Twitter :** [@thedorkodu](https://twitter.com/dorkodu)<br>**Telegram :** [@dorukeray](https://t.me/dorukeray)
