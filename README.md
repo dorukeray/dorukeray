@@ -4,15 +4,13 @@
 
 ## About
 
+- **Founder and Chief @ [Dorkodu](https://github.com/dorkodu)**
+- **Self-taught Software Engineer**
+- **Freewheeler, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast**
 - **I study at Vefa Lisesi, a historical high school in Istanbul.**
 
-- **Founder and Chief @ [Dorkodu](https://github.com/dorkodu)**
-
-- **Self-taught Software Engineer**
-
-- **Freewheeler, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast**
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dorukeray&count_private=true&theme=vue&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukeray&langs_count=4&theme=vue)]()
 
 
