@@ -4,6 +4,7 @@
 
 ## About
 You can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
+
 But this is simply me:
 
 - **Founder and Chief @ [Dorkodu](https://github.com/dorkodu)**
