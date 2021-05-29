@@ -3,11 +3,13 @@
 ![Forrest will say something :D](forrest-will-say-something.gif)
 
 ## About
+You can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
+But this is simply me:
 
 - **Founder and Chief @ [Dorkodu](https://github.com/dorkodu)**
-- **Self-taught Software Engineer**
-- **Freewheeler, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast**
-- **I study at Vefa Lisesi, a historical high school in Istanbul.**
+- Self-taught Software Engineer
+- Freewheeler, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast
+- I study at Vefa Lisesi, a historical high school in Istanbul.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dorukeray&count_private=true&theme=vue&showicons=true)]()
 
