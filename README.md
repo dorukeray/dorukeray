@@ -1,8 +1,6 @@
-# I am Doruk Eray
-
 ![Forrest will say something :D](forrest-will-say-something.gif)
 
-## About
+## About Me
 You can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
 
 But this is simply me:
