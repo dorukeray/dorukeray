@@ -10,9 +10,10 @@ but here is a simplified one:
 - freewheeler teenager, idealist, wannabe polymath, high school kid, design and experience enthusiast
 - currently, i study at vefa lisesi, a historical high school in istanbul
 
+
+**web :** **[doruk.dorkodu.com](https://doruk.dorkodu.com)**<br>**email : [doruk@dorkodu.com](mailto:doruk@dorkodu.com)**<br>**twitter : [@doruk4ever](https://twitter.com/dorkodu)**<br>**telegram : [@dorukeray](https://t.me/dorukeray)**
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dorukeray&count_private=true&theme=vue&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukeray&langs_count=4&theme=vue)]()
 
-
-**web :** **[doruk.dorkodu.com](https://doruk.dorkodu.com)**<br>**email : [doruk@dorkodu.com](mailto:doruk@dorkodu.com)**<br>**twitter : [@doruk4ever](https://twitter.com/dorkodu)**<br>**telegram : [@dorukeray](https://t.me/dorukeray)**
