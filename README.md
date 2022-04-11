@@ -1,18 +1,18 @@
-![Forrest will say something :D](forrest-will-say-something.gif)
+![forrest will say something :)](forrest-will-say-something.gif)
 
-## About Me
-You can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
+## about me
+you can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
 
-But this is simply me:
+but here is a simplified one:
 
-- **Founder and Chief @ [Dorkodu](https://github.com/dorkodu)**
-- Self-taught Software Engineer
-- Freewheeler, Thinker, Protagonist, High School Kid, Design and Experience Enthusiast
-- I study at Vefa Lisesi, a historical high school in Istanbul.
+- **founder and chief @ [dorkodu](https://github.com/dorkodu)**
+- self-taught software engineer
+- freewheeler teenager, idealist, wannabe polymath, high school kid, design and experience enthusiast
+- currently, i study at vefa lisesi, a historical high school in istanbul
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dorukeray&count_private=true&theme=vue&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dorukeray&langs_count=4&theme=vue)]()
 
 
-**Web :** **[doruk.dorkodu.com](https://doruk.dorkodu.com)**<br>**Email : [doruk@dorkodu.com](mailto:doruk@dorkodu.com)**<br>**Twitter : [@doruk4ever](https://twitter.com/dorkodu)**<br>**Telegram : [@dorukeray](https://t.me/dorukeray)**
+**web :** **[doruk.dorkodu.com](https://doruk.dorkodu.com)**<br>**email : [doruk@dorkodu.com](mailto:doruk@dorkodu.com)**<br>**twitter : [@doruk4ever](https://twitter.com/dorkodu)**<br>**telegram : [@dorukeray](https://t.me/dorukeray)**
