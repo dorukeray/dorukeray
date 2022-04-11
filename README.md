@@ -3,7 +3,7 @@
 ## about me
 you can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
 
-but here is a simplified one:
+anyway, here is a simplified one:
 
 - **founder and chief @ [dorkodu](https://github.com/dorkodu)**
 - self-taught software engineer
