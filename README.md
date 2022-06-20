@@ -7,7 +7,7 @@ anyway, this is a simplyfied me:
 
 - **founder and chief @ [dorkodu](https://dorkodu.com)**
 - digital craftsman, self-taught software engineer
-- enfj • ♓ • 3w2 • 🤩🤑🤴🏻👨🏻‍🎨👨🏻‍🎤⌨📚🎭🎸🎙🏛🗽🍦
+- enfj • ♓ • 3w2 • 🤩💻💿⌨💸📚🎨🎭🎶🎸🎙🛸👻🪢🗺🏛🗽🍦🍃
 - freewheeler teenager, idealist, wannabe polymath, high school kid, design and experience enthusiast
 - currently, i study at vefa lisesi, a historical high school in istanbul 🏫💚🤍🇹🇷
 
