@@ -14,5 +14,5 @@ anyway, this is a simplyfied me:
 
 **web :** **[doruk.dorkodu.com](https://doruk.dorkodu.com)**<br>**email : [doruk@dorkodu.com](mailto:doruk@dorkodu.com)**<br>**twitter : [@d0rukeray](https://twitter.com/d0rukeray)**<br>**telegram : [@dorukeray](https://t.me/dorukeray)**
 
-![Portfolio Overview](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![Language Overview](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Portfolio Overview](https://raw.githubusercontent.com/dorukeray/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Language Overview](https://raw.githubusercontent.com/dorukeray/github-stats/master/generated/languages.svg#gh-light-mode-only)
