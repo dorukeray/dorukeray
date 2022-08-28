@@ -1,4 +1,4 @@
-![forrest will say something :)](forrest-will-say-something.gif)
+![doruk eray](https://raw.githubusercontent.com/dorukeray/artwork/main/Branding%20%26%20Logo%20Designs/Doruk%20Eray/dorukeray-M.png)
 
 ## about me
 you can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
