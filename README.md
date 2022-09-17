@@ -1,6 +1,6 @@
 ![doruk eray](https://raw.githubusercontent.com/dorukeray/artwork/main/Branding%20%26%20Logo%20Designs/Doruk%20Eray/dorukeray-M.png)
 
-## about me
+## welcome 👋🏻
 you can read about me on [my website](https://doruk.dorkodu.com), no need for duplication 😉
 
 anyway, this is a simplyfied me:
@@ -10,7 +10,6 @@ anyway, this is a simplyfied me:
 - enfj • ♓ • 3w2 • 🤩💻💿⌨💸📚🎨🎭🎶🎸🎙🛸👻🪢🗺🏛🗽🍦🍃
 - freewheeler teenager, idealist, wannabe polymath, high school kid, design and experience enthusiast
 - currently, i study at vefa lisesi, a historical high school in istanbul 🏫💚🤍🇹🇷
-
 
 **web :** **[doruk.dorkodu.com](https://doruk.dorkodu.com)**<br>**email : [doruk@dorkodu.com](mailto:doruk@dorkodu.com)**<br>**twitter : [@d0rukeray](https://twitter.com/d0rukeray)**<br>**telegram : [@dorukeray](https://t.me/dorukeray)**
 

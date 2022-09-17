@@ -1,0 +1,7 @@
+{
+  "name": "dorukeray",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "resume-cli": "^3.0.7"
+  }
+}
