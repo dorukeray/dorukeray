@@ -2,8 +2,7 @@
 
 # Welcome 👋🏻
 
-**Doruk Eray**
-Founder **∗** Polymath **∗** Craftsman
+**Doruk Eray** <br>Founder ∗ Polymath ∗ Craftsman
 
 You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
