@@ -9,15 +9,15 @@ You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
 ### 🌰 Me, In A Nutshell
 
-- **Founder and Chief @ [Dorkodu](https://dorkodu.com)**
+- **Founder and Chief @ [Dorkodu](https://dorkodu.com)** <br>
   `Business` `Product` `Software Engineering` `UI/UX Design` `Graphics`
-- **Wannabe Rockstar** @ [**Terraspark**](https://instagram.com/theterraspark)
+- **Wannabe Rockstar** @ [**Terraspark**](https://instagram.com/theterraspark) <br>
   `Singer` `Songwriter` `Rhythm Guitar` `Concept Album` `Composer` 
 - ENFJ • ♓ • 3w2 • 🤩📚💸💿💻⌨️🎙🎸🎶🎨🎭🏛🗽🛸
 
-🌐 **Website: [doruk.dorkodu.com](https://doruk.dorkodu.com)**
-✉️ **Email: [doruk@dorkodu.com](mailto:doruk@dorkodu.com)**
-👥 **Social Media:** **[Twitter](https://twitter.com/d0rukeray)**  ⦁ [**Instagram**](https://instagram.com/d0rukeray) ⦁ [**LinkedIn**](https://linkedin.com/in/dorukeray) ⦁ [**Telegram**](https://t.me/dorukeray)
+🌐 **Website: [doruk.dorkodu.com](https://doruk.dorkodu.com)**  <br>
+✉️ **Email: [doruk@dorkodu.com ](mailto:doruk@dorkodu.com)** <br>
+👥 **Social Media:** **[Twitter](https://twitter.com/d0rukeray)**  ⦁ [**Instagram**](https://instagram.com/d0rukeray) ⦁ [**LinkedIn**](https://linkedin.com/in/dorukeray) ⦁ [**Telegram** ](https://t.me/dorukeray) <br>
 
 <hr/>
 
@@ -38,8 +38,9 @@ You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
 I founded Dorkodu **to create social & gamified productivity apps**, also **build open-source technology** on decentralized web, semantic data, cryptoeconomics.
 
-**Technical Roles**  ▸  `Full-stack Software Engineer` `Graphics` `UI/UX Designer`
-**Skills  ▸**  `Business` `Product` `Marketing` `Recruiting` `Fundraising` `Social Media`
+**Technical Roles**  ▸  `Full-stack Software Engineer` `Graphics` `UI/UX Designer` <br>
+
+**Skills  ▸**  `Business` `Product` `Marketing` `Recruiting` `Fundraising` `Social Media` <br>
 
 #### **EDUCATION**
 
@@ -49,6 +50,7 @@ I founded Dorkodu **to create social & gamified productivity apps**, also **buil
 | **Vefa Lisesi**<br />Industrial Design   | `🎓 High School` `📅 2018–2023` `✅ 3.85/4.0 GPA` |
 
 ![Portfolio Overview](https://raw.githubusercontent.com/dorukeray/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 ![Language Overview](https://raw.githubusercontent.com/dorukeray/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
