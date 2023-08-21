@@ -38,9 +38,9 @@ You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
 I founded Dorkodu **to create social & gamified productivity apps**, also **build open-source technology** on decentralized web, semantic data, cryptoeconomics.
 
-**Technical Roles**  ▸  `Full-stack Software Engineer` `Graphics` `UI/UX Designer` <br>
+▸  **Technical Roles**  `Full-stack Software Engineer` `Graphics` `UI/UX Designer` <br>
 
-**Skills  ▸**  `Business` `Product` `Marketing` `Recruiting` `Fundraising` `Social Media` <br>
+▸  **Skills**  `Business` `Product` `Marketing` `Recruiting` `Fundraising` `Social Media` <br>
 
 #### **EDUCATION**
 
