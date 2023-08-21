@@ -20,7 +20,7 @@ You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
 <hr/>
 
-#### SUMMARY
+### SUMMARY
 
 **∗** Founded & bootstrapped a tech startup & with friends at high school.<br>
 **∗** Learned management & organization with major roles in student clubs and side-hustles.<br>
@@ -29,9 +29,9 @@ You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
 <img src="https://ghchart.rshah.org/50bb50/dorukeray" alt="@dorukeray">
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 
-##### **Dorkodu, Inc.** [(dorkodu.com)](https://dorkodu.com/)
+#### **Dorkodu, Inc.** [(dorkodu.com)](https://dorkodu.com/)
 
 `💼 Founder & Chief` `📅 June 2018 – Present` `📍 Istanbul, TR`
 
@@ -41,7 +41,7 @@ I founded Dorkodu **to create social & gamified productivity apps**, also **buil
 
 ▸  **Skills**  `Business` `Product` `Marketing` `Recruiting` `Fundraising` `Social Media` <br>
 
-#### **EDUCATION**
+### **EDUCATION**
 
 | School                                   | Description                                    |
 | ---------------------------------------- | ---------------------------------------------- |
