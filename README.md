@@ -45,7 +45,7 @@ I founded Dorkodu **to create social & gamified productivity apps**, also **buil
 
 | School                                   | Description                                    |
 | ---------------------------------------- | ---------------------------------------------- |
-| **Boğaziçi University**<br />Primary Education | `🎓 Bachelor of Arts` `📅 2023–Present`          |
+| **Boğaziçi University**<br />Primary Education | `🎓 Bachelor's Degree` `📅 2023–Present`          |
 | **Vefa Lisesi**<br />Industrial Design   | `🎓 High School` `📅 2018–2023` `✅ 3.85/4.0 GPA` |
 
 ![Portfolio Overview](https://raw.githubusercontent.com/dorukeray/github-stats/master/generated/overview.svg#gh-light-mode-only)
