@@ -55,4 +55,4 @@ I founded Dorkodu **to create social & gamified productivity apps**, also **buil
 
 | Skills                                                       | Interests                                                    |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| English *(Professional)*, Turkish *(Native)*, Self-taught, Graphic Design, Prototyping, Business Management, Academic Writing, Sketching, Gamification | Music, Singing-Songwriting, Philosophy, Artificial Intelligence, Industrial Design, Economics, Cognitive Science, Strategy Games, Blogging, Pixel Art |
+| English *(Professional)*, Turkish *(Native)*, Self-taught, Graphic Design, Prototyping, Business Management, Academic Writing, Sketching, Gamification | Music, Singing-Songwriting, Philosophy, Artificial Intelligence, Industrial Design, Economics, Cognitive Science, Strategy Games, Blogging, Pixel Art- |
