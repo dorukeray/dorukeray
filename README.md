@@ -4,7 +4,8 @@
 
 **Doruk Eray** <br>Founder ∗ Polymath ∗ Craftsman
 
-You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
+My software work is focused on **Product Development** on the **Web** platform nowadays; building _apps_, _APIs_ and _libraries_ as needed, with a full-stack tech stack and focus. <br>
+You can read more about me on [my website](https://doruk.dorkodu.com) :)
 
 ### 🌰 Me, In A Nutshell
 
@@ -22,7 +23,7 @@ You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
 ### WORK EXPERIENCE
 
-#### **Dorkodu, Inc.** [(dorkodu.com)](https://dorkodu.com/)
+#### **Dorkodu** [(dorkodu.com)](https://dorkodu.com/)
 
 `💼 Founder & Chief` `📅 June 2018 – Present` `📍 Istanbul, TR`
 
@@ -38,11 +39,6 @@ I founded Dorkodu **to create social & gamified productivity apps**, also **buil
 | ---------------------------------------- | ---------------------------------------------- |
 | **Boğaziçi University**<br />Primary Education | `🎓 Bachelor's Degree` `📅 2023–Present`          |
 | **Vefa Lisesi**<br />Industrial Design   | `🎓 High School` `📅 2018–2023` `✅ 3.85/4.0 GPA` |
-
-![Portfolio Overview](https://raw.githubusercontent.com/dorukeray/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![Language Overview](https://raw.githubusercontent.com/dorukeray/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
 
 | Skills                                                       | Interests                                                    |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
