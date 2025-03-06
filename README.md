@@ -10,22 +10,13 @@ You can read more about me on [my website](https://doruk.dorkodu.com). 🤩
 
 - **Founder and Chief @ [Dorkodu](https://dorkodu.com)** <br>
   `Business` `Product` `Software Engineering` `UI/UX Design` `Graphics`
-- **Wannabe Rockstar** @ [**Terraspark**](https://instagram.com/theterraspark) <br>
-  `Singer` `Songwriter` `Rhythm Guitar` `Concept Album` `Composer` 
 - ENFJ • ♓ • 3w2 • 🤩📚💸💿💻⌨️🎙🎸🎶🎨🎭🏛🗽🛸
 
 🌐 **Website: [doruk.dorkodu.com](https://doruk.dorkodu.com)**  <br>
 ✉️ **Email: [doruk@dorkodu.com ](mailto:doruk@dorkodu.com)** <br>
-👥 **Social Media:** **[Twitter](https://twitter.com/d0rukeray)**  ⦁ [**Instagram**](https://instagram.com/d0rukeray) ⦁ [**LinkedIn**](https://linkedin.com/in/dorukeray) ⦁ [**Telegram** ](https://t.me/dorukeray) <br>
+👥 **Social:** **[Twitter](https://twitter.com/d0rukeray)**  ⦁ [**Instagram**](https://instagram.com/d0rukeray) ⦁ [**LinkedIn**](https://linkedin.com/in/dorukeray) ⦁ [**Telegram** ](https://t.me/dorukeray) <br>
 
 <hr/>
-
-### SUMMARY
-
-**∗** Founded & bootstrapped a tech startup & with friends at high school.<br>
-**∗** Learned management & organization with major roles in student clubs and side-hustles.<br>
-**∗** Many open source passion projects on advanced CS topics, since **15** years old.<br>
-**∗** Won 1st place at several national software contests, hackathons, student fairs.<br>
 
 <img src="https://ghchart.rshah.org/50bb50/dorukeray" alt="@dorukeray">
 
