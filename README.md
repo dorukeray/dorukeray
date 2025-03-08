@@ -2,9 +2,7 @@
 
 # Welcome 👋🏻
 
-**Doruk Eray** <br>Founder ∗ Polymath ∗ Craftsman
-
-My software work is focused on **Product Development** on the **Web** platform nowadays; building _apps_, _APIs_ and _libraries_ as needed, with a full-stack tech stack and focus. <br>
+My software work is focused on **Product Development** on the **Web** platform nowadays; building _apps_, _APIs_ and _libraries_ as needed, with a full-stack tech stack and focus.
 You can read more about me on [my website](https://doruk.dorkodu.com) :)
 
 ### 🌰 Me, In A Nutshell
