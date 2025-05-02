@@ -25,7 +25,7 @@ You can read more about me on [my website](https://doruk.dorkodu.com) :)
 
 `💼 Founder & Chief` `📅 June 2018 – Present` `📍 Istanbul, TR`
 
-I founded Dorkodu **to create social & gamified productivity apps**, also **build open-source technology** on decentralized web, semantic data, cryptoeconomics.
+I founded Dorkodu **to create social & gamified productivity apps**, also **build open-source technology** on decentralized web, cryptoeconomics, AI.
 
 ▸  **Technical Roles**  `Full-stack Software Engineer` `Graphics` `UI/UX Designer` <br>
 
@@ -35,8 +35,8 @@ I founded Dorkodu **to create social & gamified productivity apps**, also **buil
 
 | School                                   | Description                                    |
 | ---------------------------------------- | ---------------------------------------------- |
-| **Boğaziçi University**<br />Primary Education | `🎓 Bachelor's Degree` `📅 2023–Present`          |
-| **Vefa Lisesi**<br />Industrial Design   | `🎓 High School` `📅 2018–2023` `✅ 3.85/4.0 GPA` |
+| **Boğaziçi University**<br />Educational Science | `🎓 Bachelor's Degree` `📅 2023–Present`          |
+| **Vefa Lisesi**<br />Industrial Design   | `🎓 High School` `📅 2018–2023` `✅ 3.9/4.0 GPA` |
 
 | Skills                                                       | Interests                                                    |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
