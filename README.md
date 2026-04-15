@@ -4,7 +4,7 @@
 
 I build _apps_, _APIs_ and _libraries_ with a full-stack **web** toolbox. Mostly open source work focusing on crypto, agentic AI, decentralized finance, gamification, productivity. 
 
-Founder, Polymath, Craftsman • ENFJ • ♓ • 3w2 • 🤩📚💸💿💻⌨️🎙🎸🎶🎨🎭🏛🗽🛸
+`Founder` `Polymath` `Craftsman` • ENFJ • ♓ • 3w2 • 🤩📚💸💿💻⌨️🎙🎸🎶🎨🎭🏛🗽🛸
 
 🌐 **Website: [doruk.dorkodu.com](https://doruk.dorkodu.com)**  <br>
 ✉️ **Email: [doruk@dorkodu.com ](mailto:doruk@dorkodu.com)** <br>
