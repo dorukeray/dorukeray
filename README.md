@@ -8,7 +8,7 @@ I build _apps_, _APIs_ and _libraries_ with a full-stack **web** toolbox. Mostly
 
 🌐 **Website: [doruk.dorkodu.com](https://doruk.dorkodu.com)**  <br>
 ✉️ **Email: [doruk@dorkodu.com ](mailto:doruk@dorkodu.com)** <br>
-👥 **Social:** **[Twitter](https://twitter.com/d0rukeray)**  • [**Instagram**](https://instagram.com/d0rukeray) • [**LinkedIn**](https://linkedin.com/in/dorukeray) • [**Telegram** ](https://t.me/dorukeray) <br>
+👥 **Social:** **[Twitter](https://twitter.com/d0rukeray)**  • [**Instagram**](https://instagram.com/d0rukeray) • [**LinkedIn**](https://linkedin.com/in/dorukeray) • [**Telegram** ](https://t.me/dorukeray)
 
 <hr/>
 
