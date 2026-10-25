@@ -2,37 +2,45 @@
 
 # Welcome 👋🏻
 
-I build _apps_, _APIs_ and _libraries_ with a full-stack **web** toolbox. Mostly open source work focusing on crypto, agentic AI, decentralized finance, gamification, productivity. 
+I'm building **[Cambrian](https://cambrian.sh)**, an applied AI research lab working on an open-core **operating system for AI agents**. Day to day I write a lot of Go, TypeScript and Python. I also do AI research at **Boğaziçi University** on how agents remember, reason, coordinate and act within boundaries.
+
+Right now I mostly care about agentic AI, tools for thought, gamification and productivity.
 
 `Founder` `Polymath` `Craftsman` • ENFJ • ♓ • 3w2 • 🤩📚💸💿💻⌨️🎙🎸🎶🎨🎭🏛🗽🛸
 
 🌐 **Website: [doruk.dorkodu.com](https://doruk.dorkodu.com)**  <br>
-✉️ **Email: [doruk@dorkodu.com ](mailto:doruk@dorkodu.com)** <br>
-👥 **Social:** **[Twitter](https://twitter.com/d0rukeray)**  • [**Instagram**](https://instagram.com/d0rukeray) • [**LinkedIn**](https://linkedin.com/in/dorukeray) • [**Telegram** ](https://t.me/dorukeray)
+✉️ **Email: [doruk@dorkodu.com](mailto:doruk@dorkodu.com)** <br>
+👥 **Social:** **[Twitter](https://twitter.com/d0rukeray)** • [**Instagram**](https://instagram.com/d0rukeray) • [**LinkedIn**](https://linkedin.com/in/dorukeray) • [**Telegram**](https://t.me/dorukeray)
 
 <hr/>
 
-## RECENTLY
+## NOW
 
-#### **Dorkodu** *[(dorkodu.com)](https://dorkodu.com/)*
-**The Life Gamification Company** — We are a collective of craftspeople building experiences to gamify your life.
-`💼 Founder & Chief` `📅 2019` `📍 Istanbul, TR`
+#### **Cambrian** *[(cambrian.sh)](https://cambrian.sh/)*
+**The operating system for AI agents.** A runtime with memory, orchestration, trust, browser and tools built in, inspired by cognitive science and biology. The core is open; on top of it we're building a company brain for organizations, a cloud platform for developers and an app for everyday use.
+`💼 Founder` `📅 2026` `📍 Istanbul, TR`
 
-#### **Wanderia** *[(wanderia.xyz)](https://wanderia.xyz/)*
-**Your operating system for building an agentic & onchain business.** Financial infra, organizational context and identity for your AI agents as the definitive agentic commerce platform.
-`💼 Founder` `📅 2025` `📍 Network State`
+→ [core](https://github.com/cambrian-sh/core) (Go kernel) · [cli](https://github.com/cambrian-sh/cli) · [ui](https://github.com/cambrian-sh/ui) · [agent-sdk-python](https://github.com/cambrian-sh/agent-sdk-python) · [blog](https://github.com/cambrian-sh/blog)
+
+#### **UniCommons** *[(unicommons.net)](https://unicommons.net/)*
+**The town square of academia.** It starts with admissions: verified graduate programme deadlines, so international applicants can find, track and apply to master's programmes in Europe.
+`📅 2026` `📍 Istanbul, TR`
 
 #### **Voy 'N Joy** *[(voynjoy.com)](https://voynjoy.com/)*
-**Your personalized AI travel assistant.** — Create your travel experience with one click. We book and manage where, when, how you go; so you just enjoy. 
+**Your personalized AI travel assistant.** Plan your trip in one click. We book and manage where, when and how you go, so you can just enjoy it.
 `💼 CTO` `📅 2026` `📍 Istanbul, TR`
 
-### **EDUCATION**
+## BUILDING ON THE SIDE
 
-| School                                   | Description                                    |
-| ---------------------------------------- | ---------------------------------------------- |
-| **Boğaziçi University**<br />Management Information Systems | `🎓 MA` `⏳ 2027`          |
-| **Boğaziçi University**<br />Education Science | `🎓 BA` `📅 2023 – 2027`          |
-| **Vefa Lisesi**<br />Industrial Design   | `🎓 High School` `📅 2018–2023` |
+| Project | What it is |
+| ------- | ---------- |
+| **[Skald](https://github.com/cambrian-sh/skald)** | Project context and memory for coding agents: Claude Code, Codex and OpenCode. One command sets up guidance, session memory and structural code retrieval. |
+| **[Trekie](https://github.com/dorukeray/trekie)** | Adaptive work for ambitious people. A gamified life dashboard and AI productivity companion. |
+
+## RESEARCH & EDUCATION
+
+🔬 **AI Research @ Boğaziçi University.** I run Cambrian's academic program on agent runtimes: capability-typed dispatch, agent memory and knowledge substrates, agent security and the token economics of harnesses.
+
+🎓 **Boğaziçi University**: MA, Management Information Systems `⏳ 2027` · BA, Education Science `📅 2023 – 2027`
 
 <img src="https://ghchart.rshah.org/50bb50/dorukeray" alt="@dorukeray">
-
