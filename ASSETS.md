@@ -16,7 +16,7 @@ No established logos were found for trekie or Imperium in the inspected assets. 
 
 ## Delivery
 
-Copy README.md, banner.png, and the complete assets/ directory into the profile repository. The preview files approximate a GitHub README in light and dark modes. No image-generation tool was used for these project panels. Existing contact details remain unchanged; Dorkodu’s project entry has been removed.
+The root README embeds all five showcase panels using relative paths in assets/. Cambrian, Wanderia, Voy ’N Joy, and Trekie link to their corresponding sites or repositories; Imperium has no confirmed public link. The personal banner remains at banner.png. The artwork review page previews the SVG files locally; GitHub renders the root README on the profile. No image-generation tool was used for these project panels. Existing contact details remain unchanged; Dorkodu’s project entry has been removed. UniCommons, Skald, and the current research and education text are retained from the newer profile update.
 
 ## Refined project illustrations
 
